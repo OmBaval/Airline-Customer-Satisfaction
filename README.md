@@ -47,7 +47,7 @@ This project focuses on predicting airline customer satisfaction using the power
 
 ## Installation
 ```bash
-git clone https://github.com/OmBaval/Airline-Customer-Satisfaction
+git clone https://github.com/OmBaval/Airline-Customer-Satisfaction.git
 ```
 Install the required dependencies:
 ```bash
